@@ -1,0 +1,6 @@
+numpy
+matplotlib
+sacred
+h5py
+cvxpy
+scipy
